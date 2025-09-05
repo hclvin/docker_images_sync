@@ -1,1 +1,1 @@
-vikunja/vikunja
+mcp/elasticsearch:latest
